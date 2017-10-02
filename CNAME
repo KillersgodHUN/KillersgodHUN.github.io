@@ -1,4 +1,4 @@
-dig www.example.com +nostats +nocomments +nocmd
+dig www.kalmanstudios.com +nostats +nocomments +nocmd
 ;www.kalmanstudios.com.                     IN      A
 www.kalmanstudios.com.              3592    IN      CNAME   KillersgodHUN.github.io.
 KillersgodHUN.github.io.      43192   IN      CNAME   < GITHUB-PAGES-SERVER >.
